@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import heroImg from "../../assests/images/hero-img1.png";
+import heroImg from "../../assests/images/hero-img1.jpg";
 import "./hero-section.css";
 
 const HeroSection = () => {
@@ -16,6 +16,7 @@ const HeroSection = () => {
               <p className="mb-5">
                 Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
                 Aut saepe voluptatum earum delectus <br /> deserunt id iste,
+                quas officiis et repellat! <br /> deserunt id iste,
                 quas officiis et repellat!
               </p>
             </div>

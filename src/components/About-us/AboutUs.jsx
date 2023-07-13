@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import { Container, Row, Col } from "reactstrap";
-import aboutImg from "../../assests/images/about-us.png";
+import aboutImg from "../../assests/images/about-us.jpg";
 import CountUp from "react-countup";
 import "./about.css";
 
@@ -40,7 +40,7 @@ const AboutUs = () => {
                       <CountUp start={0} end={12} duration={2} suffix="M" />
                     </span>
 
-                    <p className="counter__title">Patient Around World</p>
+                    <p className="counter__title">Around World</p>
                   </div>
                 </div>
 

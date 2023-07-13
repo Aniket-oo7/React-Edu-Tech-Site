@@ -21,7 +21,7 @@ const Testimonials = () => {
         <Row>
           <Col lg="10" md="12" className="m-auto">
             <div className="testimonial__wrapper d-flex justify-content-between align-items-center ">
-              <div className="testimonial__img w-50">
+              <div className="testimonial__img w-20">
                 <img src={img} alt="" className="w-100" />
               </div>
 
